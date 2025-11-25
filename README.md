@@ -1,4 +1,4 @@
 # SECOND_TEST_FRONT
-контрольная работа №2
+контрольная работа №2 по фронту
 ### Мой сайт
-**[Посмотреть сайт на GitHub Pages](https://maksimsuperstarr.github.io/second-control-work/second_test_front/index.html)**
+**[Посмотреть сайт на GitHub Pages](https://maksimsuperstarr.github.io/second-control-work/)**
