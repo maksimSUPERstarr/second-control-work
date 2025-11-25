@@ -1,0 +1,73 @@
+/* Общие стили */
+body {
+    font-family: "Inter", sans-serif;
+}
+/* Заголовки */
+h1,
+h2,
+h3 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+/* Заголовки */
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 600;
+}
+
+/* Картинки */
+img.rounded-circle {
+    max-width: 260px;
+}
+
+/* Карточки проектов */
+.card img {
+    height: 180px;
+    object-fit: cover;
+}
+
+/* Таблица дневника */
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+/* Контактная форма */
+form input,
+form textarea {
+    font-size: 15px;
+}
+
+/* Навигация */
+.nav-link.active {
+    font-weight: 600;
+}
+
+/* Футер */
+footer {
+    background: #f8f9fa;
+}
+
+/* Тени (для красоты без перебора) */
+.shadow-sm {
+    box-shadow: 0 0.125rem 0.25rem #00000013 !important;
+}
+
+#head {
+    background-image: url("https: //media1.tenor.com/m/a72LVwuz9RUAAAAd/cristiano-ronaldo-cristiano.gif");
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.photo-sport {
+    border-radius: 4px;
+    object-fit: cover;
+    width: 100%;
+    max-width: 320px;
+    filter: contrast(1.05) saturate(1.1);
+}
